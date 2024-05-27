@@ -1,0 +1,21 @@
+.link{
+    border:solid 5px ;
+    text-decoration: none;
+    color: darkgreen;
+    border-color: maroon;
+    font-size: 30px;
+}
+.number_page{
+    color: crimson;
+    font-size: 20px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.link:hover{
+border-color: black;
+background-color: black;
+color: white;
+}
